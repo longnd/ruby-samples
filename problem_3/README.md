@@ -1,0 +1,1 @@
+This solution assumes that [Rails framework](https://rubyonrails.org/) can be used.
